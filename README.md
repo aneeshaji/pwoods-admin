@@ -17,7 +17,7 @@ To run this project, install it locally using composer:
 Database file(.sql) available in database folder
 
 ```
-$ git clone https://github.com/aneeshaji/pwoods.git
+$ git clone https://github.com/aneeshaji/pwoods-admin.git
 $ composer install
 $ npm install
 $ php artisan migrate
